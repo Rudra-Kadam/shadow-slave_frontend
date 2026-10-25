@@ -1,0 +1,6 @@
+{
+  "name": "Nightmare Spell — Shadow Slave RAG Companion",
+  "description": "An immersive dark-fantasy companion and RAG knowledge archive for the Shadow Slave universe by Guiltythree.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
